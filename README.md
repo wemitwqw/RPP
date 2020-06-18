@@ -24,16 +24,16 @@ Eesmärk ja lühikirjeldus:
 - Vladislav Priske
 - Alek-Jaan Tšern
 
-### Installation
-
-Mängu käivitamine
+Installation
 ----
+
+### Mängu käivitamine
+
 - Laadige alla build1.zip
 - Avage arhiivi
 - Käivitage RPP.exe
 
-Mängulähtefailide läbivaatamine
-----
+### Mängulähtefailide läbivaatamine
 
 - Avage projekti lähtefaile Unity's versiooniga 2019.3.15f1 või hiljem.
 
