@@ -33,7 +33,7 @@ Litsents
 
 MIT License
 
-Copyright (c) 2020 Vladislav Priske
+Copyright (c) 2020 Mark-Kirill Gubal, Kevin Kelder, Vladislav Priske, Alek-Jaan Tšern
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
