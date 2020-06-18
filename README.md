@@ -26,7 +26,16 @@ Eesmärk ja lühikirjeldus:
 
 ### Installation
 
-Avage projekti lähtefaile Unity's versiooniga 2019.3.15f1 või hiljem.
+Mängu käivitamine
+----
+- Laadige alla build1.zip
+- Avage arhiivi
+- Käivitage RPP.exe
+
+Mängulähtefailide läbivaatamine
+----
+
+- Avage projekti lähtefaile Unity's versiooniga 2019.3.15f1 või hiljem.
 
 Litsents
 ----
