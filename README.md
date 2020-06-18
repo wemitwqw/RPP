@@ -31,6 +31,7 @@ Installation
 
 - Laadige alla build1.zip
 - Avage arhiivi
+- Pakige arhiivi lahti
 - Käivitage RPP.exe
 
 ### Mängulähtefailide läbivaatamine
