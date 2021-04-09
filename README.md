@@ -1,6 +1,4 @@
-# RPP
-
-#WIP
+# RPP #WIP
 
 Eesmärk ja lühikirjeldus:
 
