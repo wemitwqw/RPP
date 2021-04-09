@@ -1,5 +1,7 @@
 # RPP
 
+###WIP
+
 Eesmärk ja lühikirjeldus:
 
   - RPP on projekt, mille raames meeskond töötas webGL platvormi jaoks mängu üle
