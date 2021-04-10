@@ -1,12 +1,14 @@
 # RPP #WIP
 
-Eesmärk ja lühikirjeldus:
+### Eesmärk ja lühikirjeldus
 
   - RPP on projekt, mille raames meeskond töötas webGL platvormi jaoks mängu üle
   - Eesmärgiks on luua mängu interaktiivse õppimise võimaldamiseks
   - Mäng peaks olema huvitav tudengitele, et kaasata neid rohkem õppimisprotsessi
    
   Projekt on sündinud ja arendatud Tallinna Ülikooli Digitehnoloogia Instituudi Tarkvaraarenduse projekti aine raames.
+  
+<p align=center><img src="https://cdn.discordapp.com/attachments/763628368398516235/830237279800000582/Screenshot_1.png"</p>
 
 ### Kasutatud tehnoloogiad
 
