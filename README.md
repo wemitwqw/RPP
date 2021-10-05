@@ -2,7 +2,7 @@
 
 ### Eesmärk ja lühikirjeldus
 
-  - RPP on projekt, mille raames meeskond töötas webGL platvormi jaoks mängu üle
+  - RPP on projekt, mille raames meeskond töötas webGL platvormil mängu üle
   - Eesmärgiks on luua mängu interaktiivse õppimise võimaldamiseks
   - Mäng peaks olema huvitav tudengitele, et kaasata neid rohkem õppimisprotsessi
    
